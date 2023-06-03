@@ -59,7 +59,6 @@
     flex-direction: column;
     justify-content: space-between;
     height: 120px;
-    /*border: 3px dashed crimson;*/
 }
 
 .column-2 {
@@ -68,7 +67,6 @@
     justify-content: space-between;
     align-items: center;
     height: 120px;
-    /*border: 3px dashed crimson;*/
 }
 
 .column-3 {
@@ -77,5 +75,4 @@
     justify-content: space-between;
     align-items: flex-end;
     height: 120px;
-    /*border: 3px dashed crimson;*/
 }
